@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Bikram",
+    "lastName": "Mondal",
+    "email": "bikram@gmail.com"
+  },
+  {
+    "id": 3,
+    "firstName": "Rahul",
+    "lastName": "Kumar",
+    "email": "rahul@gmail.com"
+  },
+  {
+    "id": 4,
+    "firstName": "Twinkle",
+    "lastName": "Verma",
+    "email": "twinkle@gmail.com"
+  },
+  {
+    "id": 5,
+    "firstName": "Aritra",
+    "lastName": "Mondal",
+    "email": "aritra@gmail.com"
+  },
+  {
+    "id": 6,
+    "firstName": "Sahana",
+    "lastName": "Banarjee",
+    "email": "sahana@gmail.com"
+  },
+  {
+    "id": 7,
+    "firstName": "Rima",
+    "lastName": "Ray",
+    "email": "rima@gmail.com"
+  },
+  {
+    "id": 8,
+    "firstName": "Molla",
+    "lastName": "Mainuddin",
+    "email": "mainuddin@gmail.com"
+  },
+  {
+    "id": 9,
+    "firstName": "Murari",
+    "lastName": "Kumar",
+    "email": "murari@gmail.com"
+  },
+  {
+    "id": 10,
+    "firstName": "Rishab",
+    "lastName": "Jain",
+    "email": "rishab@gmail.com"
+  },
+  {
+    "id": 11,
+    "firstName": "Sahin",
+    "lastName": "Sk",
+    "email": "sahin@gmail.com"
+  }
+]
